@@ -1,0 +1,28 @@
+{
+  "products": [
+    {
+      "product_id": 1,
+      "product_name": "Iphone 14",
+      "product_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "product_category": "Smart Phones"
+    },
+    {
+      "product_id": 2,
+      "product_name": "Iphone 13 Pro Max",
+      "product_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "product_category": "Smart Phones"
+    },
+    {
+      "product_id": 3,
+      "product_name": "Apple",
+      "product_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "product_category": "Laptop"
+    },
+    {
+      "product_id": 4,
+      "product_name": "DeLL",
+      "product_desc": "Lorem ipsum dolor sit amet, consectetur adipiscing elit...",
+      "product_category": "Laptop"
+    }
+  ]
+}
